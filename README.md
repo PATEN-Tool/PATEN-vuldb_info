@@ -1,4 +1,4 @@
-# PATEN-vuldb_info
+# PATEN_vuldb_info
 This is a table about vulnerable TPL APIs in database.
 
 
